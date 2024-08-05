@@ -1,1 +1,23 @@
-{"flutter":{"platforms":{"dart":{"lib/firebase_options.dart":{"projectId":"movie-list-95340","configurations":{"web":"1:27178930313:web:d0a79362417069e866f658"}}}}}}
+{
+  "flutter": {
+    "platforms": {
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "movie-list-95340",
+          "configurations": {
+            "web": "1:27178930313:web:d0a79362417069e866f658"
+          }
+        }
+      }
+    }
+  },
+  "emulators": {
+    "singleProjectMode": true,
+    "auth": {
+      "port": 9099
+    },
+    "ui": {
+      "enabled": true
+    }
+  }
+}
